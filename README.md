@@ -1,3 +1,5 @@
+MADE FOR NGROK AND NCC
+
 node-GameDig - Game Server Query Library
 ---
 node-GameDig is a game server query library, capable of querying for the status of
